@@ -12,4 +12,4 @@ The data used comes from [Kaggle](https://www.kaggle.com/datasets/justinas/nba-p
 
 # Visualizations
 
-Visualizations can be found inside the folder "04 Analysis" inside this project. More can also be seen in the Tableau project file [here](https://public.tableau.com/app/profile/joseph.anthony1978/viz/NBAStatsProject_17107236755600/Story1)https://public.tableau.com/app/profile/joseph.anthony1978/viz/NBAStatsProject_17107236755600/Story1)
+Visualizations can be found inside the folder "04 Analysis" inside this project. More can also be seen in the Tableau project file [here]((https://public.tableau.com/app/profile/joseph.anthony1978/viz/NBAStatsProject_17107236755600/Story1)https://public.tableau.com/app/profile/joseph.anthony1978/viz/NBAStatsProject_17107236755600/Story1))
