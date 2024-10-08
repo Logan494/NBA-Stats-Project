@@ -19,7 +19,7 @@ Key objectives:
 
 ## Data Source:
 - **Dataset:** NBA regular season statistics from the 1996-97 season through the 2022-23 season.
-- **Source:** [NBA Statistics Data](#)
+- **Source:** [NBA Statistics Data](https://www.kaggle.com/datasets/justinas/nba-players-data)
 
 ## Key Insights:
 ### 1. **Points Per Game Trends**:
@@ -48,4 +48,4 @@ Key objectives:
 This project allowed me to deepen my understanding of advanced analytical techniques, particularly **time-series** and **cluster analysis**. Additionally, working with large NBA datasets honed my ability to clean and preprocess data for meaningful analysis. The process also enhanced my skills in creating impactful visualizations using **Tableau** and Python’s **Matplotlib**.
 
 ## Tableau Dashboard:
-To explore the interactive visualizations, visit the [Tableau Dashboard](#).
+To explore the interactive visualizations, visit the [Tableau Dashboard](https://public.tableau.com/app/profile/joseph.anthony1978/viz/NBAStatsProject_17107236755600/Story1).
